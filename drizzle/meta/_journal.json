@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1730785618876,
+      "tag": "20241105054658_friendly_natasha_romanoff",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1730785816420,
+      "tag": "20241105055016_lyrical_mister_sinister",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1730992782693,
+      "tag": "20241107151942_married_shriek",
+      "breakpoints": true
+    }
+  ]
+}
